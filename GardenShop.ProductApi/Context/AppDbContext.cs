@@ -48,13 +48,19 @@ namespace GardenShop.ProductApi.Context
                 new Category
                 {
                     CategoryId = 1,
-                    Name = "Orange Skunk"
+                    Name = "Híbrida"
 
                 },
                 new Category
                 {
                     CategoryId = 2,
-                    Name = "Purple Afghani"
+                    Name = "Indica"
+
+                },
+                new Category
+                {
+                    CategoryId = 3,
+                    Name = "Sativa"
                 }
              );
         }
